@@ -21,7 +21,10 @@ TOTAL PROFIT 1958
 TOTAL QUANTITY SOLD 290
 
 # Repository structure
-DATA =<a href "https://github.com/R-OH-IT-9599/MAHDAV-ECOMMERCE-SALE/blob/main/Details.csv"<a/>
+DATA =<a href "https://github.com/R-OH-IT-9599/MAHDAV-ECOMMERCE-SALE/blob/main/Details.csv"<a/> <br/>
+DASHBOARD = power bi file (.pbix) of the project ,<a href "https://github.com/R-OH-IT-9599/MAHDAV-ECOMMERCE-SALE/blob/main/PROJECT%20ECOMMERCE%20SALE.pbix"<a/>  <br/>
+IMAGE =  ![Screenshot 2024-12-23 155111](https://github.com/user-attachments/assets/55c780d3-e564-4dcd-9f39-627a10b0049d)
 
-  
+
+
     
