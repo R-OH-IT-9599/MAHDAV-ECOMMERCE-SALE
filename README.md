@@ -7,12 +7,13 @@ This project involves analyzing Mahadev Ecommerce sales data to uncover key sale
  Visualization & Reporting: Developed compelling visualizations and reports to highlight sales trends, customer demographics, and performance metrics, providing actionable insights for business strategy.<br/>
 
  ## Why This Project Stand Out
- ### visually engaging
+ ### VISUALLY  ENGAGING
    The dashboard freature a combination of diverse visulaization including bar chats ,donut chats creating an interactive and inslight analyis <br/>
-### BUSINESS-DRIVEN INSIGHTS
-    Each vasual is designed to answer specific business question sach as indentifying high profit categories and understanding customer parchasing trend <br/>
-### STRATEGIC VALUS
-    The insights drived from this dashboard can guide business strateries in sale optization ,regional targeting and inventory planing <br/>
+## BUSINESS-DRIVEN INSIGHTS
+   Each vasual is designed to answer specific business question sach as indentifying high profit categories and understanding customer parchasing trend <br/>
+
+## STRATEGIC VALUS
+   The insights drived from this dashboard can guide business strateries in sale optization ,regional targeting and inventory planing <br/>
 
 # PROJECT HIGHLIGHT 
 ### MATRIX VALUE 
